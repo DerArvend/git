@@ -38,7 +38,8 @@ VS Code - удобный текстовый редактор. В этом кур
 
 ### Установка
 
-1. VS Code можно взять здесь <https://code.visualstudio.com/Download> 
+1. VS Code можно взять здесь <https://code.visualstudio.com/Download>  
+*Для Windows: в инсталляторе прожать все галочки в Other*
 2. Git Graph - <https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph> (или найти в каталоге расширений в самом VS Code)
 
 ### Настройка
